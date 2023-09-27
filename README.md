@@ -20,7 +20,7 @@ I learn a lot of stuff related to data science skills. This bootcamp
 ### Here is my mini project list during learning.
 
 <a name="Google-sheet"></a>
-- [Google sheet](https://docs.google.com/spreadsheets/d/1Va8I1hO4sVOFqFUq1fyvVYV1XNzfsvLaLyT2GDIVln8/edit?usp=sharing)
+- [Google sheet](https://docs.google.com/spreadsheets/d/1dFCHuTX7ymR2x0HnTkc9BtOAQAjqmEXYhRDzH193wyY/edit?usp=sharing)
   - Dynamic Query, Convert TH to EN Date, Extract Customer Information , Enriching Our Data with VLOOKUP
 
 <a name="SQL"></a>
