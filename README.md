@@ -63,7 +63,7 @@ I learn a lot of stuff related to data science skills. This bootcamp
   - Classification technique : Cross Sell Prediction
 
 <a name="Python1"></a>
-- [Python 1]([https://datalore.jetbrains.com/view/notebook/DZgmfI1zLlNjamm9SC38NW](https://colab.research.google.com/drive/1YdfnBt2axapapaK2KKT2M9HYoKZDumny?usp=sharing))
+- [Python 1](https://colab.research.google.com/drive/1YdfnBt2axapapaK2KKT2M9HYoKZDumny?usp=sharing)
   - Analyzing Sale Data
 
 <a name="Python2"></a>
