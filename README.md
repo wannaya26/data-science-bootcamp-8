@@ -24,8 +24,8 @@ I learn a lot of stuff related to data science skills. This bootcamp
   - Dynamic Query, Convert TH to EN Date, Extract Customer Information , Enriching Our Data with VLOOKUP
 
 <a name="SQL"></a>
-- [SQL project](https://replit.com/@NattapatLertpir/SQLHomeworkBetch6#main.sql)
-  - Create 4 Tables, 1x Fact, 4x Dimension, write SQL 3-5 queries analyze data, write 1 subquery/with function
+- [SQL project](https://replit.com/@wannayachinsaar/restaurantbatch08sql)
+  - Create 4 Tables, 1x Fact, 4x Dimension, write SQL 3-5 queries analyze data, write 1 subquery/with function, join/ aggregate function
 
 <a name="R1"></a>
 - [R programming 1](https://replit.com/@NattapatLertpir/Batch06chatbot#main.r)
