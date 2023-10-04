@@ -28,8 +28,8 @@ I learn a lot of stuff related to data science skills. This bootcamp
   - Create 4 Tables, 1x Fact, 4x Dimension, write SQL 3-5 queries analyze data, write 1 subquery/with function, join/ aggregate function
 
 <a name="R1"></a>
-- [R programming 1](https://replit.com/@NattapatLertpir/Batch06chatbot#main.r)
-  - Create a Pizza Order Chatbot with at least 8-10 dialogues.
+- [R programming 1](https://replit.com/@wannayachinsaar/Pizzachatbotbatch08R#main.r)
+  - Create a Pizza Order Chatbot.
 
 <a name="R2"></a>
 - [R programming 2](https://replit.com/@NattapatLertpir/Batch06Roshambo#main.r)
