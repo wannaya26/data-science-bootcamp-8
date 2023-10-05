@@ -44,7 +44,7 @@ I learn a lot of stuff related to data science skills. This bootcamp
   - Data visualization in 5 chart with `ggplot2` function in `R` programming.
 
 <a name="Stat"></a>
-- [Statistic 101](https://drive.google.com/file/d/1s1aipE74sZ5etKh6-WE7gMLCxtH4rNJ2/view)
+- [Statistic 101](https://drive.google.com/file/d/1zYR3n0zUlOjz0k52IAczNBqDFGatTt8a/view?usp=sharing)
   - Build a model, Logistic Train model, Evaluating model, Create a confusion matrix, Model evaluation
 
 <a name="Looker"></a>
