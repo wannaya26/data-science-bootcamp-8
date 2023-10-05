@@ -36,7 +36,7 @@ I learn a lot of stuff related to data science skills. This bootcamp
   - Create a rock-paper-scissors game. Allows players to play as many rounds as they want. At the end of the game, sum up WIN, TIE, LOSS.
 
 <a name="Data-Trans"></a>
-- [Data Transformation](https://datalore.jetbrains.com/view/notebook/LFinBmlP9FIi0LNgz1J2sH)
+- [Data Transformation](https://datalore.jetbrains.com/notebook/9QkRGy5aNsGTjlzfD5G9Mj/K1qqdPbw0JP2AwteKvQxGC)
   - Analysis 5 question of "nycflights13" data with dplyr in `R` programming
 
 <a name="Data-vis"></a>
