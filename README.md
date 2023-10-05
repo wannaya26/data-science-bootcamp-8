@@ -32,7 +32,7 @@ I learn a lot of stuff related to data science skills. This bootcamp
   - Create a Pizza Order Chatbot.
 
 <a name="R2"></a>
-- [R programming 2](https://replit.com/@NattapatLertpir/Batch06Roshambo#main.r)
+- [R programming 2](https://replit.com/@wannayachinsaar/RoShamBobatch08R#main.r)
   - Create a rock-paper-scissors game. Allows players to play as many rounds as they want. At the end of the game, sum up WIN, TIE, LOSS.
 
 <a name="Data-Trans"></a>
