@@ -40,7 +40,7 @@ I learn a lot of stuff related to data science skills. This bootcamp
   - Analysis 5 question of "nycflights13" data with dplyr in `R` programming
 
 <a name="Data-vis"></a>
-- [Data visualization](https://datalore.jetbrains.com/notebook/9QkRGy5aNsGTjlzfD5G9Mj/qTZOG4P7PuWGCBBHMeggAB)
+- [Data visualization](https://drive.google.com/file/d/190k5Vb-BaOaLQwtoet5jTjWF7bOoYfEE/view?usp=sharing)
   - Data visualization in 5 chart with `ggplot2` function in `R` programming.
 
 <a name="Stat"></a>
