@@ -48,7 +48,7 @@ I learn a lot of stuff related to data science skills. This bootcamp
   - Build a model, Logistic Train model, Evaluating model, Create a confusion matrix, Model evaluation
 
 <a name="Looker"></a>
-- [Dashboard (Looker Studio)](https://lookerstudio.google.com/reporting/c2b1b302-a534-4204-b443-61fb65dafc1f/page/6kU9C)
+- [Dashboard (Looker Studio)](https://lookerstudio.google.com/reporting/5804cce3-e40b-4e64-8a0f-a246f45d1769)
   - Sale report 2014 - 2017 dataset
 
 <a name="Tableau"></a>
