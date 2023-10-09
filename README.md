@@ -74,6 +74,6 @@ I learn a lot of stuff related to data science skills. This bootcamp
   - Get stock market data from Yahoo Finance API and Try to build simple ML model with sklearn.
 
 <a name="Scraping"></a>
-- [Web Scraping](https://datalore.jetbrains.com/view/notebook/wcAPB9fgPhR9x6YhjL8if4)
-  - IMDB and Spec Phone Database Web Scrapping with `R` programming 
+- [Web Scraping](https://datalore.jetbrains.com/notebook/9QkRGy5aNsGTjlzfD5G9Mj/WbJEd7M1bPcRFI8xszpLDg)
+  - IMDb Database Web Scrapping with `R` programming 
   
