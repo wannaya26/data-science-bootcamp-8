@@ -58,9 +58,8 @@ I learn a lot of stuff related to data science skills. This bootcamp
 - [Dashboard (Power BI)](https://drive.google.com/file/d/18jKyfRF9NzwxqtQhR0ScX6GnyOXC1v-M/view)
 
 <a name="ML"></a>
-- [Machine Learning](https://colab.research.google.com/drive/1D6paRlsmKhICe0BWuC7stU2a-5khPIUG?usp=sharing#scrollTo=zUMe4uWuCaAE)
+- [Machine Learning](https://datalore.jetbrains.com/notebook/9QkRGy5aNsGTjlzfD5G9Mj/bsQPk5y5QQyTgZgEMmSCfV)
   - Regression technique : Predict "Gold" price.
-  - Classification technique : Cross Sell Prediction
 
 <a name="Python1"></a>
 - [Python 1](https://colab.research.google.com/drive/1YdfnBt2axapapaK2KKT2M9HYoKZDumny?usp=sharing)
