@@ -51,9 +51,6 @@ I learn a lot of stuff related to data science skills. This bootcamp
 - [Dashboard (Looker Studio)](https://lookerstudio.google.com/reporting/5804cce3-e40b-4e64-8a0f-a246f45d1769)
   - Sale report 2014 - 2017 dataset
 
-<a name="Tableau"></a>
-- [Dashboard (Tableau)](https://public.tableau.com/app/profile/nattapat.lertpiriyametha/viz/Myfirsttableau_16716052889070/Myfirstdashbord)
-
 <a name="Power-BI"></a>
 - [Dashboard (Power BI)](https://drive.google.com/file/d/14DEX9qXHbQWnlAJScIBYK6If_Uwg3gJe/view?usp=sharing)
 
