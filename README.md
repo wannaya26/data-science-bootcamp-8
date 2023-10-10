@@ -55,7 +55,7 @@ I learn a lot of stuff related to data science skills. This bootcamp
 - [Dashboard (Tableau)](https://public.tableau.com/app/profile/nattapat.lertpiriyametha/viz/Myfirsttableau_16716052889070/Myfirstdashbord)
 
 <a name="Power-BI"></a>
-- [Dashboard (Power BI)](https://drive.google.com/file/d/18jKyfRF9NzwxqtQhR0ScX6GnyOXC1v-M/view)
+- [Dashboard (Power BI)](https://drive.google.com/file/d/14DEX9qXHbQWnlAJScIBYK6If_Uwg3gJe/view?usp=sharing)
 
 <a name="ML"></a>
 - [Machine Learning](https://datalore.jetbrains.com/notebook/9QkRGy5aNsGTjlzfD5G9Mj/bsQPk5y5QQyTgZgEMmSCfV)
