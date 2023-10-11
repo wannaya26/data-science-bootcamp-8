@@ -1,9 +1,9 @@
 # Data Science Bootcamp Projects
-My data portfolio for data analyst role
+My portfolio for data analyst role
 
 ### What did I learn from this bootcamp
 
-I learn a lot of stuff related to data science skills. This bootcamp
+I learned a lot of stuff related to data science skills. This bootcamp
 
 - Intro to data science
 - Spreadsheets
@@ -21,7 +21,7 @@ I learn a lot of stuff related to data science skills. This bootcamp
 
 <a name="Google-sheet"></a>
 - [Google sheet](https://docs.google.com/spreadsheets/d/1dFCHuTX7ymR2x0HnTkc9BtOAQAjqmEXYhRDzH193wyY/edit?usp=sharing)
-  - Dynamic Query, Convert TH to EN Date, Extract Customer Information , Enriching Our Data with VLOOKUP
+  - Dynamic Query, Convert TH to EN Date, Extract Customer Information, Enriching Our Data with VLOOKUP
 
 <a name="SQL"></a>
 - [SQL project](https://replit.com/@wannayachinsaar/restaurantbatch08sql)
@@ -45,7 +45,7 @@ I learn a lot of stuff related to data science skills. This bootcamp
 
 <a name="Stat"></a>
 - [Statistic 101](https://drive.google.com/file/d/1zYR3n0zUlOjz0k52IAczNBqDFGatTt8a/view?usp=sharing)
-  - Build a model, Logistic Train model, Evaluating model, Create a confusion matrix, Model evaluation
+  - Build a model, Logistic Train model, Evaluate model, Create a confusion matrix, Model evaluation
 
 <a name="Looker"></a>
 - [Dashboard (Looker Studio)](https://lookerstudio.google.com/reporting/5804cce3-e40b-4e64-8a0f-a246f45d1769)
@@ -56,7 +56,7 @@ I learn a lot of stuff related to data science skills. This bootcamp
 
 <a name="ML"></a>
 - [Machine Learning](https://datalore.jetbrains.com/notebook/9QkRGy5aNsGTjlzfD5G9Mj/bsQPk5y5QQyTgZgEMmSCfV)
-  - Regression technique : Predict "Gold" price.
+  - Regression technique: Predict "Gold" price.
 
 <a name="Python1"></a>
 - [Python 1](https://colab.research.google.com/drive/1YdfnBt2axapapaK2KKT2M9HYoKZDumny?usp=sharing)
